@@ -3,16 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "PersonalWebsite"
+  title: "Moak-s"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - text: SASIE
+        href: SASIE.qmd 
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: darkly
+    mainfont: arial
+    fontsize: 1.0rem
     css: styles.css
     toc: true
 

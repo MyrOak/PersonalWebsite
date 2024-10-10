@@ -2,15 +2,78 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PersonalWebsite",
+    "title": "Moak-stats (Moak-s)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The Moak-stats is a portal dedicated to sharing knowledge and projects in the fields of Data Science and Statistics, with a focus on applications in financial markets, economics, agricultural experiments, and marketing. This space was created to share my experiences, research, and insights, offering relevant content for both professionals and academics interested in data analysis and its real-world applications.\n\n\n\n\n\nBlog: Articles and reflections on the latest developments in data science, statistics, and their intersections with financial markets, economics, and marketing. From economic analyses to data-driven marketing strategy optimizations, the blog offers valuable insights for those who want to apply data science in a practical and strategic way.\nResearch Papers and Projects: I share my scientific articles and published papers here, covering topics such as multivariate analysis, statistical modeling, and computational statistics. Each work is aimed at solving complex problems using advanced statistics to produce practical and applicable results.\nTutorials and Practical Guides: Detailed tutorials for those who want to learn or deepen their knowledge of the tools and methodologies of data science and statistics. I offer guides for using R, Python, and other popular tools with practical applications in the financial sector, scientific experimentation, and data-driven marketing strategy optimization.\n\n\n\n\n\n\nIf you are a financial market professional, economist, data scientist, researcher, or someone looking for data-based solutions to optimize your projects and decisions, Moak-stats was designed for you. Through accessible yet technically deep language, you can explore everything from introductory tutorials to advanced analyses, helping you improve your decision-making based on data.\n\n\n\nExplore, learn, and connect with applied data science on Moak-stats."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Miguel Carvalho Nascimento"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "M-Oak",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "M-Oak",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "SASIE.html",
+    "href": "SASIE.html",
+    "title": "Developed by",
+    "section": "",
+    "text": "Graduated in Statistics from UNESP, with a master’s and PhD in Statistics and Agricultural Experimentation from UFLA, and a postdoctoral degree from USP, he is a Full Professor in the Statistics Department and a productivity grant holder from CNPq. His research focuses on experimental design, optimization, and multivariate modeling, particularly in the areas of specialty coffee quality, sensory analysis, and consumer profiling.\n\n\nWith extensive experience in academic supervision, he has guided numerous undergraduate research projects, master’s dissertations, and PhD theses, and serves as a consultant for funding agencies such as CAPES, CNPq, and Fapemig. He has developed packages for R software, such as Mvar and Blendstat, and is the author of educational materials on experimental design. He also serves as an associate editor of the COFFEE SCIENCE journal and as a reviewer for national and international journals..\n\n\nLattes, Orcid, Google scholar, LinkedIn and\n\n\n\n\nAbout me see more in this link!"
+  },
+  {
+    "objectID": "index.html#welcome-to-m-oak-stats",
+    "href": "index.html#welcome-to-m-oak-stats",
+    "title": "M-oak stats",
+    "section": "",
+    "text": "The M-oak stats is a portal dedicated to sharing knowledge and projects in the fields of Data Science and Statistics, with a focus on applications in financial markets, economics, agricultural experiments, and marketing. This space was created to share my experiences, research, and insights, offering relevant content for both professionals and academics interested in data analysis and its real-world applications.\n\n\n\n\n\nBlog: Articles and reflections on the latest developments in data science, statistics, and their intersections with financial markets, economics, and marketing. From economic analyses to data-driven marketing strategy optimizations, the blog offers valuable insights for those who want to apply data science in a practical and strategic way.\nResearch Papers and Projects: I share my scientific articles and published papers here, covering topics such as multivariate analysis, statistical modeling, and computational statistics. Each work is aimed at solving complex problems using advanced statistics to produce practical and applicable results.\nTutorials and Practical Guides: Detailed tutorials for those who want to learn or deepen their knowledge of the tools and methodologies of data science and statistics. I offer guides for using R, Python, and other popular tools with practical applications in the financial sector, scientific experimentation, and data-driven marketing strategy optimization.\n\n\n\n\n\n\nIf you are a financial market professional, economist, data scientist, researcher, or someone looking for data-based solutions to optimize your projects and decisions, M-oak stats was designed for you. Through accessible yet technically deep language, you can explore everything from introductory tutorials to advanced analyses, helping you improve your decision-making based on data.\n\n\n\nExplore, learn, and connect with applied data science on M-oak stats."
+  },
+  {
+    "objectID": "index.html#welcome-to-moak-stats-stats",
+    "href": "index.html#welcome-to-moak-stats-stats",
+    "title": "Moak-stats stats",
+    "section": "",
+    "text": "The Moak-stats stats is a portal dedicated to sharing knowledge and projects in the fields of Data Science and Statistics, with a focus on applications in financial markets, economics, agricultural experiments, and marketing. This space was created to share my experiences, research, and insights, offering relevant content for both professionals and academics interested in data analysis and its real-world applications.\n\n\n\n\n\nBlog: Articles and reflections on the latest developments in data science, statistics, and their intersections with financial markets, economics, and marketing. From economic analyses to data-driven marketing strategy optimizations, the blog offers valuable insights for those who want to apply data science in a practical and strategic way.\nResearch Papers and Projects: I share my scientific articles and published papers here, covering topics such as multivariate analysis, statistical modeling, and computational statistics. Each work is aimed at solving complex problems using advanced statistics to produce practical and applicable results.\nTutorials and Practical Guides: Detailed tutorials for those who want to learn or deepen their knowledge of the tools and methodologies of data science and statistics. I offer guides for using R, Python, and other popular tools with practical applications in the financial sector, scientific experimentation, and data-driven marketing strategy optimization.\n\n\n\n\n\n\nIf you are a financial market professional, economist, data scientist, researcher, or someone looking for data-based solutions to optimize your projects and decisions, Moak-stats stats was designed for you. Through accessible yet technically deep language, you can explore everything from introductory tutorials to advanced analyses, helping you improve your decision-making based on data.\n\n\n\nExplore, learn, and connect with applied data science on Moak-stats stats."
+  },
+  {
+    "objectID": "index.html#welcome-to-moak-stats",
+    "href": "index.html#welcome-to-moak-stats",
+    "title": "Moak-stats (Moak-s)",
+    "section": "",
+    "text": "The Moak-stats is a portal dedicated to sharing knowledge and projects in the fields of Data Science and Statistics, with a focus on applications in financial markets, economics, agricultural experiments, and marketing. This space was created to share my experiences, research, and insights, offering relevant content for both professionals and academics interested in data analysis and its real-world applications.\n\n\n\n\n\nBlog: Articles and reflections on the latest developments in data science, statistics, and their intersections with financial markets, economics, and marketing. From economic analyses to data-driven marketing strategy optimizations, the blog offers valuable insights for those who want to apply data science in a practical and strategic way.\nResearch Papers and Projects: I share my scientific articles and published papers here, covering topics such as multivariate analysis, statistical modeling, and computational statistics. Each work is aimed at solving complex problems using advanced statistics to produce practical and applicable results.\nTutorials and Practical Guides: Detailed tutorials for those who want to learn or deepen their knowledge of the tools and methodologies of data science and statistics. I offer guides for using R, Python, and other popular tools with practical applications in the financial sector, scientific experimentation, and data-driven marketing strategy optimization.\n\n\n\n\n\n\nIf you are a financial market professional, economist, data scientist, researcher, or someone looking for data-based solutions to optimize your projects and decisions, Moak-stats was designed for you. Through accessible yet technically deep language, you can explore everything from introductory tutorials to advanced analyses, helping you improve your decision-making based on data.\n\n\n\nExplore, learn, and connect with applied data science on Moak-stats."
+  },
+  {
+    "objectID": "SASIE.html#sasie",
+    "href": "SASIE.html#sasie",
+    "title": "Developed by",
+    "section": "",
+    "text": "Graduated in Statistics from UNESP, with a master’s and PhD in Statistics and Agricultural Experimentation from UFLA, and a postdoctoral degree from USP, he is a Full Professor in the Statistics Department and a productivity grant holder from CNPq. His research focuses on experimental design, optimization, and multivariate modeling, particularly in the areas of specialty coffee quality, sensory analysis, and consumer profiling.\n\n\nWith extensive experience in academic supervision, he has guided numerous undergraduate research projects, master’s dissertations, and PhD theses, and serves as a consultant for funding agencies such as CAPES, CNPq, and Fapemig. He has developed packages for R software, such as Mvar and Blendstat, and is the author of educational materials on experimental design. He also serves as an associate editor of the COFFEE SCIENCE journal and as a reviewer for national and international journals..\n\n\nLattes, Orcid, Google scholar, LinkedIn and\n\n\n\n\nAbout me see more in this link!"
   }
 ]

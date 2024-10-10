@@ -1,0 +1,33 @@
+---
+title: "Developed by"
+image: SASIE.png
+about:
+  template: trestles
+  image-width: 25em
+  image-shape: round
+  links: 
+    - text: "{{< ai orcid >}} ORCID 0000-0001-7353-5768"
+      url: https://orcid.org/0000-0001-7353-5768
+---
+
+## SASIE
+
+### Desenvolvedores
+
+#### **Marcelo Angelo Cirillo**
+
+<div style="text-align:justify;">
+Graduated in Statistics from UNESP, with a master's and PhD in Statistics and Agricultural Experimentation from UFLA, and a postdoctoral degree from USP, he is a Full Professor in the Statistics Department and a productivity grant holder from CNPq. His research focuses on **experimental design**, **optimization**, and **multivariate modeling**, particularly in the areas of **specialty coffee quality**, **sensory analysis**, and **consumer profiling**.
+</div>
+
+<div style="text-align:justify;">
+With extensive experience in academic supervision, he has guided numerous **undergraduate research projects**, **master's dissertations**, and **PhD theses**, and serves as a consultant for funding agencies such as CAPES, CNPq, and Fapemig. He has developed packages for **R software**, such as [Mvar](https://cran.r-project.org/web/packages/MVar.pt/index.html) and [Blendstat](https://cran.r-project.org/web/packages/Blendstat/index.html), and is the author of educational materials on **experimental design**. He also serves as an **associate editor of the COFFEE SCIENCE journal** and as a reviewer for national and international journals..
+</div>
+
+<div style="text-align:justify;">
+[Lattes](http://lattes.cnpq.br/9705001233749286), [Orcid](https://orcid.org/0000-0002-2647-439X), [Google scholar](https://scholar.google.com.br/citations?user=3HcyGsIAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/marcelo-cirillo-461777169/) and
+</div>
+
+#### **Miguel Carvalho Nascimento**
+
+About me see more in this [link](https://linkedin.com/in/miguel-carvalho-nascimento)!
