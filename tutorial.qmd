@@ -1,5 +1,5 @@
 ---
-title: "Tutorial"
+title: " "
 image: M.png
 about:
   template: solana
@@ -21,8 +21,9 @@ During my time at the Federal University of Lavras (UFLA), I had the opportunity
 -   [**Introduction to R**](https://www.youtube.com/watch?v=5HXcNnFK9QQ) Covered the fundamentals of the language, from basic concepts to essential libraries. This tutorial is planned in two parts. I present the first part here. You can find more on the [YouTube channel of the Department of Statistics](https://www.youtube.com/@departamentodeestatisticau1017/streams) at UFLA.
 :::
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5HXcNnFK9QQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/5HXcNnFK9QQ" title="Introdução ao software R (Parte 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 </iframe>
 
