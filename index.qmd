@@ -7,13 +7,13 @@ about:
   image-shape: round
 ---
 
-## Welcome to Moak-stats!
+## Welcome to Moak-s!
 
 <div style="text-align:justify;">
-The **Moak-stats** is a portal dedicated to sharing knowledge and projects in the fields of Data Science and Statistics, with a focus on applications in **financial markets**, **economics**, **agricultural experiments**, and **marketing**. This space was created to share my experiences, research, and insights, offering relevant content for both professionals and academics interested in data analysis and its real-world applications.
+The **Moak-s** is a portal dedicated to sharing knowledge and projects in the fields of Data Science and Statistics, with a focus on applications in **financial markets**, **economics**, **agricultural experiments**, and **marketing**. This space was created to share my experiences, research, and insights, offering relevant content for both professionals and academics interested in data analysis and its real-world applications.
 </div>
 
-### What you will find on Moak-stats:
+### What you will find on Moak-s:
 
 <div style="text-align:justify;">
 - **Blog**: Articles and reflections on the latest developments in data science, statistics, and their intersections with financial markets, economics, and marketing. From economic analyses to data-driven marketing strategy optimizations, the blog offers valuable insights for those who want to apply data science in a practical and strategic way.
@@ -23,15 +23,15 @@ The **Moak-stats** is a portal dedicated to sharing knowledge and projects in th
 - **Tutorials and Practical Guides**: Detailed tutorials for those who want to learn or deepen their knowledge of the tools and methodologies of **data science** and **statistics**. I offer guides for using R, Python, and other popular tools with practical applications in the financial sector, scientific experimentation, and data-driven marketing strategy optimization.
 </div>
 
-### Why is Moak-stats for you?
+### Why is Moak-s for you?
 
 <div style="text-align:justify;">
-If you are a financial market professional, economist, data scientist, researcher, or someone looking for data-based solutions to optimize your projects and decisions, **Moak-stats** was designed for you. Through accessible yet technically deep language, you can explore everything from introductory tutorials to advanced analyses, helping you improve your decision-making based on data.
+If you are a financial market professional, economist, data scientist, researcher, or someone looking for data-based solutions to optimize your projects and decisions, **Moak-s** was designed for you. Through accessible yet technically deep language, you can explore everything from introductory tutorials to advanced analyses, helping you improve your decision-making based on data.
 </div>
 
 ---
 
 <div style="text-align:justify;">
-Explore, learn, and connect with applied data science on **Moak-stats**.
+Explore, learn, and connect with applied data science on **Moak-s**.
 </div>
 

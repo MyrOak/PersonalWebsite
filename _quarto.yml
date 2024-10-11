@@ -10,6 +10,8 @@ website:
         text: Home
       - text: SASIE
         href: SASIE.qmd 
+      - text: Tutorial
+        href: tutorial.qmd  
       - about.qmd
 
 format:

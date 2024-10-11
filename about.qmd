@@ -19,24 +19,25 @@ about:
       url: https://orcid.org/0000-0001-7353-5768
 ---
 
-I'm Miguel Carvalho Nascimento
-
-### This content appears above the formatted about page content.
-
-::: {#hero-heading}
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
-
 ## Education
 
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+<div style="text-align:justify;">
+I am a PhD candidate in Statistics and Agricultural Experimentation at the Federal University of Lavras (UFLA), with a solid academic background that includes a master’s degree in the same field (2023) as well as specializations in Business Consulting and Planning (Executive MBA) and Financial Market and Banking. My professional trajectory includes teaching experience in public schools and a strong focus as a researcher, specializing in Multivariate Analysis, Computational Statistics, Data Science, Financial Markets, and Marketing. See more in [lattes](http://lattes.cnpq.br/2298890343056577).
+</div>
 
-Macalester College \| St. Paul MA B.A in Economics \| Sept 2007 - June 2011
+## Skills
+
+<div style="text-align:justify;">
+My skills range from applying advanced statistical methods to providing business consulting, with a strong emphasis on data-driven decision-making. Throughout my education, I have also developed leadership and collaboration skills, along with participation in cultural groups.
+</div>
+
+<div style="text-align:justify;">
+This diverse set of skills and experiences enables me to contribute to projects that require both quantitative and qualitative analysis, process optimization, and data-driven strategies, whether in the academic, business, or financial sectors.
+</div>
 
 ## Experience
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
+PhD Candidate in Statistic \| Business Consulting and Financial Market Specialist
 
-GeoScynce \| Chief Analyst \| Sept 2012 - April 2018
-:::
+Data Analysis \| Expertise in Multivariate Analysis and Data Science. 
 
-### This content appears below the formatted about page content.
